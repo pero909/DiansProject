@@ -1,0 +1,1 @@
+ipcsv philly.csv | select properties/brand,properties/addr:street,properties/addr:state,properties/sport,properties/website,properties/name:de,properties/opening_hours | export-csv extractedData.csv -NTI
