@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-12T15:21:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284663557",
+        "addr:city": "Скопје",
+        "addr:housenumber": "2",
+        "addr:postcode": "1000",
+        "addr:street": "Ѓуро Малешевац",
+        "building": "yes",
+        "image": "https://vistinomer.mk/wp-content/uploads/2017/07/19401417_10213450877689294_881351500_o.jpg",
+        "leisure": "fitness_centre",
+        "name": "Спортска сала",
+        "sport": "basketball;volleyball;fitness;soccer;table_tennis",
+        "website": "http://oudimitarmakedonski.edu.mk/mk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4759028,
+              41.9733271
+            ],
+            [
+              21.475856,
+              41.9733487
+            ],
+            [
+              21.4758807,
+              41.9733793
+            ],
+            [
+              21.4758899,
+              41.9733906
+            ],
+            [
+              21.4758956,
+              41.9733977
+            ],
+            [
+              21.4759504,
+              41.9734653
+            ],
+            [
+              21.4759185,
+              41.9734793
+            ],
+            [
+              21.4758109,
+              41.9735263
+            ],
+            [
+              21.4757834,
+              41.9735379
+            ],
+            [
+              21.4756439,
+              41.9733685
+            ],
+            [
+              21.4757028,
+              41.9733416
+            ],
+            [
+              21.4755474,
+              41.9731549
+            ],
+            [
+              21.47572,
+              41.9730991
+            ],
+            [
+              21.4759028,
+              41.9733271
+            ]
+          ]
+        ]
+      },
+      "id": "way/284663557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443017605",
+        "leisure": "fitness_centre",
+        "name": "Lady Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5039324,
+          41.9956817
+        ]
+      },
+      "id": "node/443017605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234141391",
+        "addr:postcode": "1000",
+        "addr:street": "Булевар Мајка Тереза",
+        "leisure": "fitness_centre",
+        "name": "Фитнес Револуција",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "website": "http://facebook.com/fitnesrevolucija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.417578,
+          41.9883612
+        ]
+      },
+      "id": "node/4234141391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234141889",
+        "addr:postcode": "1000",
+        "addr:street": "9 Мај",
+        "leisure": "fitness_centre",
+        "name": "Fitness Club 'FIT'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4154554,
+          41.9966729
+        ]
+      },
+      "id": "node/4234141889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4888220921",
+        "leisure": "fitness_centre",
+        "name:de": "Sportplatz",
+        "name:en": "Calisthenics Park",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4236313,
+          42.0082066
+        ]
+      },
+      "id": "node/4888220921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5441128822",
+        "leisure": "fitness_centre",
+        "name": "Легион",
+        "name:en": "Legion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4006628,
+          41.9991262
+        ]
+      },
+      "id": "node/5441128822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583331821",
+        "addr:housenumber": "37A",
+        "addr:postcode": "1000",
+        "addr:street": "Миле Поп Јорданов",
+        "email": "tina7.pink@gmail.com",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "ХБОДИ ИМПУЛС СТУДИО",
+        "name:en": "XBODY IMPULSE STUDIO",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+38976360595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4017364,
+          41.9947765
+        ]
+      },
+      "id": "node/5583331821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745679960",
+        "leisure": "fitness_centre",
+        "name": "Игралиште",
+        "name:en": "Soccer yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6126829,
+          41.9331866
+        ]
+      },
+      "id": "node/5745679960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6054048510",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4177404,
+          41.9990075
+        ]
+      },
+      "id": "node/6054048510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853489927",
+        "addr:city": "Cкoпje",
+        "addr:housenumber": "43",
+        "addr:postcode": "1000",
+        "addr:street": "Женевска",
+        "email": "info@integralyoga.mk",
+        "leisure": "fitness_centre",
+        "name": "Центар за интегрална јога",
+        "sport": "yoga",
+        "website": "https://integralyoga.mk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3835301,
+          42.0014577
+        ]
+      },
+      "id": "node/6853489927"
+    }
+  ]
+}
