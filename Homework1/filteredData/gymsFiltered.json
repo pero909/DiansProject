@@ -1,0 +1,20 @@
+[{"coordinates":[[[21.4759028,41.9733271],[21.475856,41.9733487],[21.4758807,41.9733793],[21.4758899,41.9733906],[21.4758956,41.9733977],
+                  [21.4759504,41.9734653],[21.4759185,41.9734793],[21.4758109,41.9735263],[21.4757834,41.9735379],
+                  [21.4756439,41.9733685],[21.4757028,41.9733416],[21.4755474,41.9731549],[21.47572,41.9730991]
+                  ,[21.4759028,41.9733271]]],
+  "properties":{"city":"Скопје","street":"Ѓуро Малешевац","name":"Спортска сала"}}
+ ,{"coordinates":[[[23.2174045,41.3994865],[23.2176814,41.3993728],[23.2176963,41.3993931],
+                   [23.2177506,41.3993708],[23.2178475,41.3995037],[23.2175609,41.3996214],
+                   [23.2175279,41.3995761],[23.2174833,41.3995944],[23.2174045,41.3994865]]],
+   "properties":{"city":null,"street":null,"name":null}},
+ {"coordinates":[[[22.8411355,41.2587481],[22.8409563,41.2586283],[22.8410619,41.2585419],
+                  [22.8412412,41.2586705],[22.8411355,41.2587481]]],
+  "properties":{"city":null,"street":null,"name":null}},
+ {"coordinates":[[[22.1824779,41.7411108],[22.1825117,41.7410725],
+                  [22.1825917,41.7409818],[22.1826274,41.7409414],
+                  [22.1827548,41.7410033],[22.182714,41.7410517],[22.1826634,41.7411116],
+                  [22.1826348,41.7411455],[22.1826163,41.7411686],[22.1824779,41.7411108]]],
+  "properties":{"city":null,"street":null,"name":"фитнес справи на отворено"}},
+ {"coordinates":[21.5039324,41.9956817],"properties":{"city":null,"street":null,"name":"Lady Club"}},{"coordinates":[21.417578,41.9883612],"properties":{"city":null,"street":"Булевар Мајка Тереза","name":"Фитнес Револуција"}},{"coordinates":[21.4154554,41.9966729],"properties":{"city":null,"street":"9 Мај","name":"Fitness Club 'FIT'"}},{"coordinates":[20.653854,42.0616794],"properties":{"city":null,"street":null,"name":"Fit.Meka"}},{"coordinates":[22.0641055,40.9714925],"properties":{"city":null,"street":null,"name":"Γήπεδο Μπάσκετ"}},{"coordinates":[21.4236313,42.0082066],"properties":{"city":null,"street":null,"name":null}},{"coordinates":[20.7270509,42.2166261],"properties":{"city":null,"street":"Wesly Clark","name":"Fivestar Fitness"}},{"coordinates":[21.4006628,41.9991262],"properties":{"city":null,"street":null,"name":"Легион"}},{"coordinates":[21.4017364,41.9947765],"properties":{"city":null,"street":"Миле Поп Јорданов","name":"ХБОДИ ИМПУЛС СТУДИО"}},{"coordinates":[21.6126829,41.9331866],"properties":{"city":null,"street":null,"name":"Игралиште"}},{"coordinates":[21.2556515,42.2312274],"properties":{"city":null,"street":"Skënderbeu","name":"Bodybuilding \u201CDani\u201D"}},{"coordinates":[21.4177404,41.9990075],"properties":{"city":null,"street":null,"name":null}},{"coordinates":[22.5898318,42.0182426],"properties":{"city":null,"street":null,"name":null}},{"coordinates":[22.5888673,42.023008],"properties":{"city":null,"street":null,"name":null}},{"coordinates":[22.9174034,40.8953771],"properties":{"city":null,"street":null,"name":"Δημοτικό γυμναστήριο Καμπάνη"}},{"coordinates":[20.8107922,41.1122493],"properties":{"city":null,"street":null,"name":"Ponas"}},{"coordinates":[20.814276,41.1086111],"properties":{"city":null,"street":null,"name":"MissFit"}},{"coordinates":[21.3835301,42.0014577],"properties":{"city":"Cкoпje","street":"Женевска","name":"Центар за интегрална јога"}},{"coordinates":[21.9403464,41.8638169],"properties":{"city":null,"street":null,"name":"Body-Art"}},{"coordinates":[20.7401256,42.2140804],"properties":{"city":null,"street":"Astrit Suli","name":"Life Fitness"}},{"coordinates":[20.7390079,42.218783],"properties":{"city":null,"street":"Agron Bytyqi","name":"Zumba Fitness"}},{"coordinates":[21.3351479,41.0278952],"properties":{"city":null,"street":null,"name":"Xtreme Fitness Center"}},{"coordinates":[21.3144544,41.0288271],"properties":{"city":null,"street":null,"name":"EnerGym"}},{"coordinates":[21.3144158,41.0227069],
+"properties":{"city":null,"street":null,"name":"Universal"}},
+ {"coordinates":[20.7374349,42.2087623],"properties":{"city":null,"street":null,"name":"Hidi"}}]
