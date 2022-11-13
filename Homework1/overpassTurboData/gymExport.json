@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-13T13:47:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284663557",
+        "addr:city": "Скопје",
+        "addr:housenumber": "2",
+        "addr:postcode": "1000",
+        "addr:street": "Ѓуро Малешевац",
+        "building": "yes",
+        "image": "https://vistinomer.mk/wp-content/uploads/2017/07/19401417_10213450877689294_881351500_o.jpg",
+        "leisure": "fitness_centre",
+        "name": "Спортска сала",
+        "sport": "basketball;volleyball;fitness;soccer;table_tennis",
+        "website": "http://oudimitarmakedonski.edu.mk/mk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.4759028,
+              41.9733271
+            ],
+            [
+              21.475856,
+              41.9733487
+            ],
+            [
+              21.4758807,
+              41.9733793
+            ],
+            [
+              21.4758899,
+              41.9733906
+            ],
+            [
+              21.4758956,
+              41.9733977
+            ],
+            [
+              21.4759504,
+              41.9734653
+            ],
+            [
+              21.4759185,
+              41.9734793
+            ],
+            [
+              21.4758109,
+              41.9735263
+            ],
+            [
+              21.4757834,
+              41.9735379
+            ],
+            [
+              21.4756439,
+              41.9733685
+            ],
+            [
+              21.4757028,
+              41.9733416
+            ],
+            [
+              21.4755474,
+              41.9731549
+            ],
+            [
+              21.47572,
+              41.9730991
+            ],
+            [
+              21.4759028,
+              41.9733271
+            ]
+          ]
+        ]
+      },
+      "id": "way/284663557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338292710",
+        "building": "school",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.2174045,
+              41.3994865
+            ],
+            [
+              23.2176814,
+              41.3993728
+            ],
+            [
+              23.2176963,
+              41.3993931
+            ],
+            [
+              23.2177506,
+              41.3993708
+            ],
+            [
+              23.2178475,
+              41.3995037
+            ],
+            [
+              23.2175609,
+              41.3996214
+            ],
+            [
+              23.2175279,
+              41.3995761
+            ],
+            [
+              23.2174833,
+              41.3995944
+            ],
+            [
+              23.2174045,
+              41.3994865
+            ]
+          ]
+        ]
+      },
+      "id": "way/338292710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412152078",
+        "building": "yes",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.8411355,
+              41.2587481
+            ],
+            [
+              22.8409563,
+              41.2586283
+            ],
+            [
+              22.8410619,
+              41.2585419
+            ],
+            [
+              22.8412412,
+              41.2586705
+            ],
+            [
+              22.8411355,
+              41.2587481
+            ]
+          ]
+        ]
+      },
+      "id": "way/412152078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705958392",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "фитнес справи на отворено",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.1824779,
+              41.7411108
+            ],
+            [
+              22.1825117,
+              41.7410725
+            ],
+            [
+              22.1825917,
+              41.7409818
+            ],
+            [
+              22.1826274,
+              41.7409414
+            ],
+            [
+              22.1827548,
+              41.7410033
+            ],
+            [
+              22.182714,
+              41.7410517
+            ],
+            [
+              22.1826634,
+              41.7411116
+            ],
+            [
+              22.1826348,
+              41.7411455
+            ],
+            [
+              22.1826163,
+              41.7411686
+            ],
+            [
+              22.1824779,
+              41.7411108
+            ]
+          ]
+        ]
+      },
+      "id": "way/705958392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443017605",
+        "leisure": "fitness_centre",
+        "name": "Lady Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5039324,
+          41.9956817
+        ]
+      },
+      "id": "node/443017605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234141391",
+        "addr:postcode": "1000",
+        "addr:street": "Булевар Мајка Тереза",
+        "leisure": "fitness_centre",
+        "name": "Фитнес Револуција",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "website": "http://facebook.com/fitnesrevolucija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.417578,
+          41.9883612
+        ]
+      },
+      "id": "node/4234141391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234141889",
+        "addr:postcode": "1000",
+        "addr:street": "9 Мај",
+        "leisure": "fitness_centre",
+        "name": "Fitness Club 'FIT'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4154554,
+          41.9966729
+        ]
+      },
+      "id": "node/4234141889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4480834090",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Fit.Meka",
+        "name:sq": "Fit.Meka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.653854,
+          42.0616794
+        ]
+      },
+      "id": "node/4480834090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4587121598",
+        "leisure": "fitness_centre",
+        "name": "Γήπεδο Μπάσκετ",
+        "name:el": "Γήπεδο Μπάσκετ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0641055,
+          40.9714925
+        ]
+      },
+      "id": "node/4587121598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4888220921",
+        "leisure": "fitness_centre",
+        "name:de": "Sportplatz",
+        "name:en": "Calisthenics Park",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4236313,
+          42.0082066
+        ]
+      },
+      "id": "node/4888220921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988090522",
+        "addr:street": "Wesly Clark",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Fivestar Fitness",
+        "name:sq": "Fivestar Fitness",
+        "opening_hours": "Mo-Su 07:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7270509,
+          42.2166261
+        ]
+      },
+      "id": "node/4988090522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5441128822",
+        "leisure": "fitness_centre",
+        "name": "Легион",
+        "name:en": "Legion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4006628,
+          41.9991262
+        ]
+      },
+      "id": "node/5441128822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583331821",
+        "addr:housenumber": "37A",
+        "addr:postcode": "1000",
+        "addr:street": "Миле Поп Јорданов",
+        "email": "tina7.pink@gmail.com",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "ХБОДИ ИМПУЛС СТУДИО",
+        "name:en": "XBODY IMPULSE STUDIO",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+38976360595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4017364,
+          41.9947765
+        ]
+      },
+      "id": "node/5583331821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745679960",
+        "leisure": "fitness_centre",
+        "name": "Игралиште",
+        "name:en": "Soccer yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6126829,
+          41.9331866
+        ]
+      },
+      "id": "node/5745679960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5835224985",
+        "addr:postcode": "71000",
+        "addr:street": "Skënderbeu",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Bodybuilding “Dani”",
+        "opening_hours": "Mo-Sa 10:00-23:00",
+        "website": "https://www.facebook.com/Bodybilding-Dani-Ka%C3%A7anik-327383825996/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2556515,
+          42.2312274
+        ]
+      },
+      "id": "node/5835224985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6054048510",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4177404,
+          41.9990075
+        ]
+      },
+      "id": "node/6054048510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6079510881",
+        "leisure": "fitness_centre",
+        "sport": "fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5898318,
+          42.0182426
+        ]
+      },
+      "id": "node/6079510881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6079524196",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5888673,
+          42.023008
+        ]
+      },
+      "id": "node/6079524196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597541704",
+        "leisure": "fitness_centre",
+        "name": "Δημοτικό γυμναστήριο Καμπάνη"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9174034,
+          40.8953771
+        ]
+      },
+      "id": "node/6597541704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831648793",
+        "leisure": "fitness_centre",
+        "name": "Ponas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8107922,
+          41.1122493
+        ]
+      },
+      "id": "node/6831648793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6837039908",
+        "leisure": "fitness_centre",
+        "name": "MissFit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.814276,
+          41.1086111
+        ]
+      },
+      "id": "node/6837039908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853489927",
+        "addr:city": "Cкoпje",
+        "addr:housenumber": "43",
+        "addr:postcode": "1000",
+        "addr:street": "Женевска",
+        "email": "info@integralyoga.mk",
+        "leisure": "fitness_centre",
+        "name": "Центар за интегрална јога",
+        "sport": "yoga",
+        "website": "https://integralyoga.mk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3835301,
+          42.0014577
+        ]
+      },
+      "id": "node/6853489927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841117305",
+        "leisure": "fitness_centre",
+        "name": "Body-Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9403464,
+          41.8638169
+        ]
+      },
+      "id": "node/7841117305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8800535044",
+        "addr:street": "Astrit Suli",
+        "leisure": "fitness_centre",
+        "name": "Life Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7401256,
+          42.2140804
+        ]
+      },
+      "id": "node/8800535044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8804773516",
+        "addr:street": "Agron Bytyqi",
+        "leisure": "fitness_centre",
+        "name": "Zumba Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7390079,
+          42.218783
+        ]
+      },
+      "id": "node/8804773516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8915765886",
+        "leisure": "fitness_centre",
+        "name": "Xtreme Fitness Center",
+        "name:en": "Xtreme Fitness Center",
+        "name:mk": "Екстрим Фитнес Центар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3351479,
+          41.0278952
+        ]
+      },
+      "id": "node/8915765886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8915791392",
+        "leisure": "fitness_centre",
+        "name": "EnerGym",
+        "name:en": "EnerGym",
+        "name:mk": "Енерџим"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3144544,
+          41.0288271
+        ]
+      },
+      "id": "node/8915791392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8915791393",
+        "leisure": "fitness_centre",
+        "name": "Universal",
+        "name:en": "Universal",
+        "name:mk": "Универзал"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3144158,
+          41.0227069
+        ]
+      },
+      "id": "node/8915791393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9103439833",
+        "leisure": "fitness_centre",
+        "name": "Hidi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7374349,
+          42.2087623
+        ]
+      },
+      "id": "node/9103439833"
+    }
+  ]
+}
